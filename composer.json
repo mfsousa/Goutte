@@ -1,14 +1,18 @@
 {
-    "name": "fabpot/goutte",
+    "name": "mfsousa/goutte",
     "type": "application",
     "description": "A simple PHP Web Scraper",
     "keywords": ["scraper"],
-    "homepage": "https://github.com/fabpot/Goutte",
+    "homepage": "https://github.com/mfsousa/Goutte",
     "license": "MIT",
     "authors": [
         {
             "name": "Fabien Potencier",
             "email": "fabien@symfony.com"
+        },
+        {
+            "name": "Marco Sousa",
+            "email": "me@marco-sousa.com"
         }
     ],
     "require": {
